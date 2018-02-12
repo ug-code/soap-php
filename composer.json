@@ -1,7 +1,7 @@
 {
     "name": "Basic Soap Class",
     "description": "basic soap class",
-    "keywords": ["framework", "laravel"],
+    "keywords": ["soap"],
     "license": "MIT",
     "require": {
         "php": ">=5.6.4"
