@@ -7,7 +7,12 @@ ini_set('display_errors', 'On');
 ini_set('soap.wsdl_cache_enabled', 0);
 
 class MySoap {
-
+    
+    /**
+    * @author ug-code 
+    * @date 2018.01.20
+    * @result xml
+    */
     public function init($username, $password, $url, $method, $payload) {
 
             try {
